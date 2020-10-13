@@ -1,0 +1,32 @@
+
+- Find the public addresses of account 'arnab':
+
+root@f9267ed30604:~# barccoin-cli getaddressesbyaccount arnab
+[
+  "bDpj1uiYkgSDZxDwiWZb5wzW73eEaxG6DB",
+  "bQE457oQ3kdqBvnQpdwgNLdFQAiJLNETEV"
+]
+
+- Find the base58 private key for the public address:
+
+root@f9267ed30604:~# barccoin-cli dumpprivkey bDpj1uiYkgSDZxDwiWZb5wzW73eEaxG6DB
+4i3cnr1RiZKTcvyaJzshqANv31XyxAENX3SFYEjuEskGZmZqcxiw
+
+- convert base58 private key to 64-character hex:
+
+Generator: https://incoherency.co.uk/base58/
+
+remove two character from the begining and 10 characters (checksum) from the end of the string.
+1062f7a3410b4a29fa7435c57c14d521eb8169875f280e1bf2bc39f172514059
+
+- Pen and paper method:
+
+Pen and paper cipher: Ceasars Shift (shift 5 characters)
+
+Generator: https://cryptii.com/pipes/caesar-cipher
+
+Input: 1062f7a3410b4a29fa7435c57c14d521eb8169875f280e1bf2bc39f172514059
+Output: 65b74cf896509f7e4fc98a1ac1692a7630d6bedca47d536047018e46c7a695ae
+
+
+

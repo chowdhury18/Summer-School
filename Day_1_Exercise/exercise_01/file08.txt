@@ -1,0 +1,3 @@
+file07.txt
+(stdin)= e551ede23cf7d4a30b87256377c88301d6af83888cd0284fe5fe0ac23608356d
+This is data number 08.

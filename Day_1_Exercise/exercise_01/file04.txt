@@ -1,0 +1,3 @@
+file03.txt
+(stdin)= 157078fc0f3499811824e4fed763953a7db805caac4b0525558780611d015d9a
+This is data number 04.

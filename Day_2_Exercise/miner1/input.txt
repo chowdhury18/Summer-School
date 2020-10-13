@@ -1,0 +1,4 @@
+5804b8dc
+./miner1/input.txt
+000524f2bc0e4d7f1125bb841a800ad1e0336b35e0523b91510bedf01497adec
+1558483899hello world.

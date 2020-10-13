@@ -1,0 +1,3 @@
+file01.txt
+(stdin)= 258d398dd77e1cdfb603ee678bb86033751ace6b8ccf08eae430ef9c323e81c1
+This is data number 02.

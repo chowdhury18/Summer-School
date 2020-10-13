@@ -1,0 +1,3 @@
+file09.txt
+(stdin)= 43fd801d3cd7388d9a749672f056646d19792ad665e9262d329ff97181975b35
+This is data number 10.

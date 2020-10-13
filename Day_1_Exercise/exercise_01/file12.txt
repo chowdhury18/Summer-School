@@ -1,0 +1,3 @@
+file11.txt
+(stdin)= a4f0919fb1ab78ee95b234f7ef79a5601c80570d42c890c5b6a02a46360e33f2
+This is data number 12.
